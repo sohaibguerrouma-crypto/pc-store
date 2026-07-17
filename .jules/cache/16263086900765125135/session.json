@@ -1,0 +1,20 @@
+{
+  "resource": {
+    "name": "sessions/16263086900765125135",
+    "title": "PC-Store: Cart & Checkout Flow",
+    "prompt": "Create:\n1. src/app/cart/page.tsx - Cart page with items, quantity, totals\n2. src/app/checkout/page.tsx - Checkout with form, wilaya fees, payment methods\n3. src/components/cart/CartItem.tsx\n4. src/components/ui/Button.tsx, Input.tsx, GlassCard.tsx\n5. src/providers/CartProvider.tsx - Cart context with localStorage\n\nAll TailwindCSS dark theme, RTL, glassmorphism.",
+    "url": "https://jules.google.com/session/16263086900765125135",
+    "id": "16263086900765125135",
+    "automationMode": "AUTO_CREATE_PR",
+    "archived": false,
+    "state": "unspecified",
+    "outputs": [],
+    "outcome": {
+      "sessionId": "16263086900765125135",
+      "title": "PC-Store: Cart & Checkout Flow",
+      "state": "completed",
+      "outputs": []
+    }
+  },
+  "_lastSyncedAt": 1783876637747
+}

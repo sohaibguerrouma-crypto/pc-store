@@ -1,0 +1,20 @@
+{
+  "resource": {
+    "name": "sessions/4420696018021354525",
+    "title": "PC-Store: Shop & Product Pages",
+    "prompt": "Create the following files in src/app/shop/ and src/components/shop/:\n\n1. src/app/shop/page.tsx - Shop listing page with:\n   - Category filter sidebar (brand, price range, specs)\n   - Product grid with pagination\n   - Sort options (price, name, newest)\n   - Search functionality\n   - Mobile-responsive filter drawer\n\n2. src/app/shop/[slug]/page.tsx - Product detail page with:\n   - Image gallery with zoom\n   - Full specs table\n   - Stock status badge\n   - Add to cart button with quantity selector\n   - Related products section\n   - Breadcrumb navigation\n\n3. src/components/shop/ProductCard.tsx - Reusable product card\n4. src/components/shop/ProductGrid.tsx - Grid layout component\n5. src/components/shop/Filters.tsx - Filter component\n\nUse TailwindCSS dark theme, glassmorphism effects, Arabic-friendly layout (RTL ready).\nImport types from @/types and utilities from @/lib/utils.",
+    "url": "https://jules.google.com/session/4420696018021354525",
+    "id": "4420696018021354525",
+    "automationMode": "AUTO_CREATE_PR",
+    "archived": false,
+    "state": "unspecified",
+    "outputs": [],
+    "outcome": {
+      "sessionId": "4420696018021354525",
+      "title": "PC-Store: Shop & Product Pages",
+      "state": "completed",
+      "outputs": []
+    }
+  },
+  "_lastSyncedAt": 1783876636408
+}
